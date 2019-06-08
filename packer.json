@@ -1,9 +1,9 @@
 {
   "variables": {
-    "vpc_id": "vpc-088ac793b7f916e00",
-    "subnet_id": "subnet-0e4701c342cd4acb5",
+    "vpc_id": "vpc-47af1c3d",
+    "subnet_id": "subnet-d3eb89fd",
     "temporary_security_group_source_cidrs" : "0.0.0.0/0",
-    "region": "ap-south-1"
+    "region": "us-east-1"
   },
   "builders": [{
     "type": "amazon-ebs",
